@@ -18,4 +18,4 @@ you also need to use composer to install two libraries:
 
 
 You can check out my github for more intresting project.
-For details see the [My github](https://github.com/abdulsalamamtech).
+For details [Visit My github Page](https://github.com/abdulsalamamtech).
