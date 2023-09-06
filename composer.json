@@ -1,4 +1,9 @@
 {
+    "name": "abdulsalamamtech/buk-timetable-cms-v1",
+    "description": "for dynamic timetable generation",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "dompdf/dompdf": "^2.0",
         "phpoffice/phpword": "^1.0"
